@@ -10,4 +10,4 @@ During this experiment, we acquired knowledge about
 
 ## Screenshots
 
-![plot](./assets/screenshots/screenshot_1.png?raw=true)
+![plot](./assets/screenshots/screenshot_4.png?raw=true)
